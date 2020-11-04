@@ -1,5 +1,5 @@
 import React from "react";
-//////test comment
+//////test comment 2
 export const Card = props => (
     <div className="card mt-3" style={{width: "18rem"}}>
         {props.children}
